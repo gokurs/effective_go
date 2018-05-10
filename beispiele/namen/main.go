@@ -6,5 +6,5 @@ import (
 
 func main() {
 	beispiel.ExportedVar = 2
-	beispiel.unexportedVar = 4
+	// beispiel.unexportedVar = 4
 }
